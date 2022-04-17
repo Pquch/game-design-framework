@@ -1,4 +1,4 @@
-# The Absolute Tabletop Imagine it Better Framework
+# The Imagine it Better Framework
 
 
 # Introduction
